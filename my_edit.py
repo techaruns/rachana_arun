@@ -1,1 +1,1 @@
-print ('love u')
+print ('love u pangu')
